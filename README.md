@@ -6,7 +6,7 @@
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![CLA assistant](https://cla-assistant.io/readme/badge/smallstep/certificates)](https://cla-assistant.io/smallstep/certificates)
 
-`step-ca` is an online certificate authority for secure, automated certificate management for DevOps.
+`step-ca` is an online certificate authority for secure, automated certificate management for DevOps.  
 It's the server counterpart to the [`step` CLI tool](https://github.com/smallstep/cli) for working with certificates and keys.
 Both projects are maintained by [Smallstep Labs](https://smallstep.com).
 
